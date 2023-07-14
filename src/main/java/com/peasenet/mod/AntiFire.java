@@ -1,8 +1,8 @@
 package com.peasenet.mod;
 
 import com.peasenet.main.GavinsMod;
+import com.peasenet.mods.render.antifire.ModAntiFire;
 import net.fabricmc.api.ModInitializer;
-import com.peasenet.antifire.ModAntiFire;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

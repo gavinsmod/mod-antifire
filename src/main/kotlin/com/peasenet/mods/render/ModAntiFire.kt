@@ -17,16 +17,15 @@
  * OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-package com.peasenet.antifire
+package com.peasenet.mods.render
 
-import com.peasenet.mods.render.RenderMod
 import com.peasenet.util.event.data.RenderSubmergedOverlay
 import com.peasenet.util.listeners.RenderSubmergedOverlayListener
 
 /**
  * @author gt3ch1
- * @version 07-14-2023
- * A mod that disables the fire overlay when on fire.
+ * @version 03-02-2023
+ * A mod that disables the pumpkin overlay.
  */
 class ModAntiFire : RenderMod(
     "Anti Fire",
